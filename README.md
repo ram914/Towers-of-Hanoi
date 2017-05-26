@@ -8,7 +8,7 @@ It is comprised of two classes,
 <li> TowersOfHanoi.java
 </ol>
 
-<h3 style="font-family:calibri;color:#38ACEC"><u>BasicGUI.java :</u></h3>
+<h3 style="font-family:calibri;color:#38ACEC">BasicGUI.java :</h3>
 This Java file has all we need to have when we create a Java animation.
 It implements Singleton design pattern.
 U can check its abilities in the documentation section, in it's src code.
@@ -16,7 +16,7 @@ U can check its abilities in the documentation section, in it's src code.
 <b><u>References:</u></b> <a href="http://introcs.cs.princeton.edu/java/23recursion/StdDraw.java.html">StdDraw.java</a>
 
 
-<h3 style="font-family:calibri;color:#38ACEC"><u>TowersOfHanoi.java :</u></h3>
+<h3 style="font-family:calibri;color:#38ACEC">TowersOfHanoi.java :</h3>
 It implements main logic to solve towers of hanoi puzzle.
 It uses the Static members of <a href="https://github.com/ram9147/Towers-of-Hanoi/blob/master/src/src/towersofhanoi/BasicGUI.java">BasicGUI.java</a> to display the results.
 
